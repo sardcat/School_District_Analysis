@@ -14,3 +14,4 @@ the district's reporting.
 
 ## Results
 
+![Figure 01](/Resources/figure03.png) ![Figure 02](/Resources/figure04.png)
