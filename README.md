@@ -25,7 +25,7 @@ the district's reporting.
 
 #### School Summary: Thomas High School
 1. Schoool Summary Thomas High School First Iteration (all data)
-![](/Resources/figure01.png)
+![](/Resources/figure00.png)
 
 2. School Summary Thomas High School Ammendd (9th grade data removed)
 ![](/Resources/figure02.png)
