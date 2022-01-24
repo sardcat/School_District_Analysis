@@ -29,3 +29,5 @@ the district's reporting.
 
 2. School Summary Thomas High School Ammendd (9th grade data removed)
 ![](/Resources/figure02.png)
+
+*
