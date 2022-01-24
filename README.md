@@ -23,7 +23,7 @@ the district's reporting.
 * Removing the suspect 9th grade data from Thomas High School had a minimal impact on the overall District metrics: dropping Average Math Score, Average Reading Score, % Passing Math, % Passing Reading and % Overall Passing between 0.1 and 0.3 points.
 
 
-####School Summary: Thomas High School
+#### School Summary: Thomas High School
 1. Schoool Summary Thomas High School First Iteration (all data)
 ![](/Resources/figure01.png)
 
