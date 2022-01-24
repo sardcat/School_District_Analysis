@@ -14,7 +14,7 @@ the district's reporting.
 
 ## Results
 
-![Figure 01](/Resources/figure03.png) 
+![District Summary First Iteration (all data)](/Resources/figure03.png) 
 District Summary First Iteration (all data)
 ![Figure 02](/Resources/figure04.png)
 District Summary Ammended (Thomas High School 9th grade data removed)
