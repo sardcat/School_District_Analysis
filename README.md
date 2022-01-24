@@ -27,7 +27,7 @@ the district's reporting.
 1. Schoool Summary Thomas High School First Iteration (all data)
 ![](/Resources/figure01.png)
 
-2. School Summary Thomas High School Ammendd (9th grade data removed)
+2. School Summary Thomas High School Ammended (9th grade data removed)
 ![](/Resources/figure02.png)
 
-*
+* On the individual school level, removing the 9th grade data for Thomas High School had a drastic impact in metrics. This is to be expected since, in theory, this removes data for approximatly 1/4th of the student body. All % Passing scores drop from values in the 90% range down to the 60% range.
