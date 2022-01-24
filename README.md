@@ -15,8 +15,7 @@ the district's reporting.
 ## Results
 
 ![District Summary First Iteration (all data)](/Resources/figure03.png) 
-
-District Summary First Iteration (all data)
+1. District Summary First Iteration (all data)
 
 ![Figure 02](/Resources/figure04.png)
 
