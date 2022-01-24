@@ -13,7 +13,7 @@ asked to remove the data for this school and grade level, and recompute a new an
 the district's reporting.
 
 ## Results
-### District Summary
+#### District Summaries
 1. District Summary First Iteration (all data)
 ![District Summary First Iteration (all data)](/Resources/figure03.png)
 
